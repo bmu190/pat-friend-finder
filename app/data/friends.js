@@ -1,4 +1,4 @@
-var friends =   {
+var friends =   [{
         "name":"Ahmed",
         "gender": "Male",
         "scores":[
@@ -13,7 +13,7 @@ var friends =   {
             4,
             1
           ]
-      };
+      }];
 
       module.exports = friends;
 
